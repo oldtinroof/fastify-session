@@ -1,5 +1,5 @@
 {
-  "name": "fastify-session",
+  "name": "oldtinroof/fastify-session",
   "version": "5.2.1",
   "description": "a session plugin for fastify",
   "main": "lib/fastifySession.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SerayaEryn/fastify-session.git"
+    "url": "git+https://github.com/oldtinroof/fastify-session.git"
   },
   "devDependencies": {
     "@types/node": "^15.12.2",
