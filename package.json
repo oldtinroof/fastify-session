@@ -1,5 +1,5 @@
 {
-  "name": "oldtinroof/fastify-session",
+  "name": "@oldtinroof/fastify-session",
   "version": "5.2.1",
   "description": "a session plugin for fastify",
   "main": "lib/fastifySession.js",
